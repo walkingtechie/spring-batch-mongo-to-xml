@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <report>
+    <id>3</id>
+    <date>2017-03-29 18:30:00.0 UTC</date>
+    <impression>431436</impression>
+    <clicks>86</clicks>
+    <earning>270.80</earning>
+  </report>
+  <report>
+    <id>2</id>
+    <date>2017-03-28 18:30:00.0 UTC</date>
+    <impression>339100</impression>
+    <clicks>60</clicks>
+    <earning>320.88</earning>
+  </report>
+  <report>
+    <id>1</id>
+    <date>2017-03-27 18:30:00.0 UTC</date>
+    <impression>139237</impression>
+    <clicks>50</clicks>
+    <earning>220.90</earning>
+  </report>
+</report>
